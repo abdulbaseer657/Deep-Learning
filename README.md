@@ -1,6 +1,6 @@
 # Deep-Learning 
 
-project 1 :Simple image classification
+1 :Simple image classification
 
 This is a simple deep learning project to classify images of handwritten digits.  
 firstly the basics of building single layer neural network are covered.  
