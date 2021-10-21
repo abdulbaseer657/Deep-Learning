@@ -9,5 +9,4 @@ a.for flattening the matrix data,
 b.extra hidden layer 
 
 2.Activation functions and implementation
-
 3. Matrix basics in python using numpy
